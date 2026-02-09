@@ -57,12 +57,6 @@ Também possuo conhecimento em **empreendedorismo** e visão de produto.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Metrics](https://raw.githubusercontent.com/Luizf-andrade/main/github-metrics.svg)
-
----
-
 ## 🚀 Filosofia
 
 > _"Codar não é apenas resolver problemas.  
