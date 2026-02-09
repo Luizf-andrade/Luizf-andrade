@@ -20,7 +20,7 @@ Também possuo conhecimento em **empreendedorismo** e visão de produto.
     <img src="https://img.shields.io/badge/Instagram-luizf.andrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/luiz-fernando-andrade">
-    <img src="https://img.shields.io/badge/LinkedIn-Luiz%20Fernando%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-luiz-fernando-andrade-527551288?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
