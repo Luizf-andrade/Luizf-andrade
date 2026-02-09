@@ -59,7 +59,7 @@ Também possuo conhecimento em **empreendedorismo** e visão de produto.
 
 ## 📊 Estatísticas do GitHub
 
-![Metrics](https://raw.githubusercontent.com/Luizf-andrade/Luizf-andrade/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Luizf-andrade/main/github-metrics.svg)
 
 ---
 
